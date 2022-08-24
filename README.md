@@ -1,4 +1,4 @@
-# Module_11_Challenge_JavaScript
+# Module 11 Challenge JavaScript
 ## Overview of Project
 Using UFO sightings data, a dyanmic webpage was created to display user-filtered data. Users can filter data by date, city, state, country, and shape.
 
